@@ -1,0 +1,16 @@
+[submodule "src/tsl2591"]
+	path = src/tsl2591
+	url = https://github.com/swarm-robotics/tsl2591.git
+	branch = devel
+[submodule "src/sr04us"]
+	path = src/sr04us
+	url = https://github.com/swarm-robotics/sr04us.git
+	branch = devel
+[submodule "src/fordyca_rosbridge"]
+	path = src/fordyca_rosbridge
+	url = https://github.com/swarm-robotics/fordyca_rosbridge.git
+	branch = devel
+[submodule "src/sierra_rosbridge"]
+	path = src/sierra_rosbridge
+	url = https://github.com/swarm-robotics/sierra_rosbridge.git
+	branch = devel
